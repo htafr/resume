@@ -5,29 +5,29 @@ M.Sc. Student | Portfolio: [github.com/htafr](https://github.com/htafr)
 Currently pursuing M.Sc. degree in information security. I have interest in all areas of infosec, but currently I'm working with firmware security.
 
 ## Education
-**B.Sc. in Computer Engineering** | Universidade de São Paulo | 2023
-**M.Sc. in Information Security** | Universidade de São Paulo | Present
+- **B.Sc. in Computer Engineering** | Universidade de São Paulo | 2023
+- **M.Sc. in Information Security** | Universidade de São Paulo | Present
 
 ## Skills
-- Programming Languages: C/C++, Python, Bash
-- Tools: Git, Linux, QEMU, U-Boot, EDKII, Buildroot
+- **Programming Languages:** C/C++, Python, Bash
+- **Tools:** Git, Linux, QEMU, U-Boot, EDKII, Buildroot
 
 ## Research Experience
-**KNOMA USP** (May 2021 -- Jul 2022)
-Scientific Initiation
+**KNOMA USP** (May 2021 -- Jul 2022)\
+**Scientific Initiation**
 - The project aims to optimize the stencil algorithm that simulates seismic wave propagation for FPGA using OpenCL and oneAPI. The team has to consider the capabilities and limitations of the hardware in order to parallelize the code, taking advantage of the available resources. We have published an article for [ERAD-SP 2022](https://www.researchgate.net/publication/364172499_Seismic_Wave_Stencil_Computation_Performance_Comparison) comparing the performance among FPGA, GPU, and CPU with the frameworks mentioned earlier.
 
-**LARC USP** (Jan 2023 -- Dec 2023)
-Scientific Initiation
+**LARC USP** (Jan 2023 -- Dec 2023)\
+**Scientific Initiation**
 - The current world scenario has attack opportunities due to many manufacturers involved in component manufacturing and shipping. The standard Security Protocol and Data Model (SPDM) intends to offer a protection method against untrusted hardware, however, it was not widely tested and implemented by the time of this research. This project inserted the protocol API (LibSPDM) in the U-Boot and implemented it in the virtual block device firmware, testing its execution with QEMU in RISC-V 64 bits architecture. The project has a public repository at [Github](https://github.com/htafr/riscv-spdm).
 
 ## Work Experience
-**Stefanini Scala** (Jan 2022 -- Apr 2022)
-Internship
+**Stefanini Scala** (Jan 2022 -- Apr 2022)\
+**Internship**
 - An internet service provider hired the company aiming for help in future business expansion decisions. Our mission was to deliver a data pipeline with acquired data utilizing PySpark in Microsoft Azure Databricks. Moreover, it was included dashboards in PowerBI and city clustering for future sprints which helped the company with its time management, optimizing our work schedule so we could meet deadlines better than before.
 
-**Stefanini Scala** (Sep 2022 -- Dec 2022)
-Internship
+**Stefanini Scala** (Sep 2022 -- Dec 2022)\
+**Internship**
 - I was allocated to the same project which an internet service provider bought aiming for business expansion intelligence. The project was finished by November utilizing machine learning to predict cities' performance in case the company opened a facility at it. By December, an automotive part maker hired Scala Stefanini to improve their productivity. I was required to use IBM OPL to implement KPIs to analyze the mathematical model.
 
 ## Projects
